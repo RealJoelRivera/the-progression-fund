@@ -1,0 +1,17 @@
+{
+  "name": "fib-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fib-retracement": "^0.0.4",
+    "redis": "^4.0.3"
+  }
+}
